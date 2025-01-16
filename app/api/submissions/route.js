@@ -38,7 +38,7 @@ export async function POST(request) {
         country,
         company,
         questions,
-        userId: token.id,
+        
       },
     });
 
